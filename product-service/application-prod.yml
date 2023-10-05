@@ -1,0 +1,10 @@
+info:
+  foo: Product
+services:
+  user:
+    name: user
+    database:
+      name: mysql
+      url: jdbc:mysql://localhost:3306/product-db?createDatabaseIfNotExist=true
+      username: root
+      password: FormosVN@123
