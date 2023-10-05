@@ -1,3 +1,4 @@
+greeting: Hello Product Service
 app-name: product-service
 database:
   name: mysql

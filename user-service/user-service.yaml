@@ -1,3 +1,4 @@
+greeting: Hello User Service
 app-name: user-service
 database:
   name: mysql
