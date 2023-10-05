@@ -1,0 +1,10 @@
+info:
+  foo: bar
+services:
+  user:
+    name: user
+    database:
+      name: mysql
+      url: jdbc:mysql://localhost:3306/user-db
+      username: root
+      password: root
